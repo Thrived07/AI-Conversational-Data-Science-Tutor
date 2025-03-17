@@ -19,7 +19,7 @@ Google Generative AI API
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/AI-Data-Science-Tutor.git
+git clone https://github.com/Thrived07/AI-Conversational-Data-Science-Tutor.git
 cd AI-Data-Science-Tutor
 2️⃣ Install Dependencies
 bash
